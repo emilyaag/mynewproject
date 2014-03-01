@@ -12,6 +12,8 @@ public class apples {
          System.out.println("Enter your last name: ");
 		 String lname = input.nextLine();
          mytest.simpleMessage(lname);
+         mytest.simpleMessage(lname);
+         
  
 	    // System.out.println("Hello youtube!");
 	    // double tuna;
