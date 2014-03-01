@@ -9,7 +9,7 @@ public class apples {
 		 String name = input.nextLine();
          mytest.simpleMessage(name);
  
-         System.out.println("Enter your last name: ");
+         System.out.println("Enter your last name please: ");
 		 String lname = input.nextLine();
          mytest.simpleMessage(lname);
          System.out.println("Hello test: ");
